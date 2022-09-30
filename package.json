@@ -2,7 +2,7 @@
   "name": "cyrrency-app-typescript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gyd3ukc.com/currencyAppTypescript",
+  "homepage": "https://gyd3ukc.github.io/currencyAppTypescript",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.5",

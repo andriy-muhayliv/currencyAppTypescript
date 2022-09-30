@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gyd3ukc/currencyAppTypescript.git/static/css/main.35ee131a.css",
-    "main.js": "/gyd3ukc/currencyAppTypescript.git/static/js/main.12d17a61.js",
-    "index.html": "/gyd3ukc/currencyAppTypescript.git/index.html",
-    "main.35ee131a.css.map": "/gyd3ukc/currencyAppTypescript.git/static/css/main.35ee131a.css.map",
-    "main.12d17a61.js.map": "/gyd3ukc/currencyAppTypescript.git/static/js/main.12d17a61.js.map"
+    "main.css": "/gyd3ukc/currencyAppTypescript/static/css/main.35ee131a.css",
+    "main.js": "/gyd3ukc/currencyAppTypescript/static/js/main.12d17a61.js",
+    "index.html": "/gyd3ukc/currencyAppTypescript/index.html",
+    "main.35ee131a.css.map": "/gyd3ukc/currencyAppTypescript/static/css/main.35ee131a.css.map",
+    "main.12d17a61.js.map": "/gyd3ukc/currencyAppTypescript/static/js/main.12d17a61.js.map"
   },
   "entrypoints": [
     "static/css/main.35ee131a.css",
